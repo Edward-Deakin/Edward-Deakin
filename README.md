@@ -3,7 +3,7 @@
 
 # 🔗 Contacts:
 [![discord](https://raw.githubusercontent.com/TheCrazyCatKidz/TheCrazyCatKidz/main/discord.png)](https://discord.com/users/361479100004564995)
-<img src="https://raw.githubusercontent.com/TheCrazyCatKidz/TheCrazyCatKidz/main/discord.png" width="25" length="25">
+<a href="https://discord.com/users/361479100004564995"><img src="https://raw.githubusercontent.com/TheCrazyCatKidz/TheCrazyCatKidz/main/discord.png" width="25" length="25"></a>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,6 +20,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/eddeakin) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/edwarddeakin) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
