@@ -2,7 +2,7 @@
 🗨️ My name is Edward<br>⌛ My age is 15 years<br>🗺️ I live in England, United Kingdom<br>🖥️ Working on SimplyGv V3
 
 # 🔗 Contacts:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" /> **[Discord Profile](https://discord.com/users/361479100004564995)**
+[![discord](https://raw.githubusercontent.com/TheCrazyCatKidz/TheCrazyCatKidz/main/discord.png)](https://discord.com/users/361479100004564995)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
