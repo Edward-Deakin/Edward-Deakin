@@ -2,7 +2,6 @@
 🗨️ My name is Edward<br>⌛ My age is 15 years<br>🗺️ I live in England, United Kingdom<br>🖥️ Working on SimplyGv V3
 
 # 🔗 Contacts:
-[![discord](https://raw.githubusercontent.com/TheCrazyCatKidz/TheCrazyCatKidz/main/discord.png)](https://discord.com/users/361479100004564995)
 <a href="https://discord.com/users/361479100004564995"><img src="https://raw.githubusercontent.com/TheCrazyCatKidz/TheCrazyCatKidz/main/discord.png" width="25" length="25"></a>
 
 # 💻 Tech Stack:
